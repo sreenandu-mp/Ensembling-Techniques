@@ -82,10 +82,3 @@ This project predicts house prices using various machine learning models and ens
 - Weighted Averaging provided flexibility by assigning importance to better-performing models.
 
 ---
-
-## **How to Use This Repository**
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/yourusername/house-price-ensembling.git
-cd house-price-ensembling
